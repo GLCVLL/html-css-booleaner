@@ -9,7 +9,7 @@ body{
 
 img{
     width: 250px;
-    height: 100px;
+    height: 200px;
 }
 
 header{
@@ -17,4 +17,16 @@ header{
     height: 200px;
     background-image: url(../img/pattern.png);
     background-color: #4ea0ff;
+}
+
+h4{
+    color: #83888d;
+}
+
+#skyblue-text{
+    color: #50caf2;
+}
+#grey-thin{
+    color: #83888d;
+    font-size: smaller;
 }
