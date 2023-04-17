@@ -87,3 +87,6 @@ table{
     background-image: url(../img/tim-2.jpg);
     display: inline-block;
 }
+figure{
+    margin: 0 auto;
+}
