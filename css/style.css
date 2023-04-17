@@ -30,6 +30,21 @@ h4{
     color: #83888d;
     font-size: smaller;
 }
+
 .yellow-background{
     background-color: yellow;
+}
+
+table{
+    width: 1080px;
+    margin: auto;
+    table-layout: fixed;
+    text-align: left;
+}
+#deep-skyblue{
+    color: white;
+    background-color: #20a9e5;
+}
+.skyblue-table{
+    background-color: #b1e5f2;
 }
